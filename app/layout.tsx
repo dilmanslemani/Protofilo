@@ -14,9 +14,9 @@ const instrument = Instrument_Serif({
 })
 
 export const metadata: Metadata = {
-  title: 'Alex Rivera — Creative Developer & Designer',
+  title: 'Dilman — Software Enginee — Creative Developer & Designer',
   description:
-    'Portfolio of Alex Rivera, a multidisciplinary designer and creative developer crafting bold brands, motion and digital experiences.',
+    'Portfolio of Dilman — Software Enginee, a multidisciplinary designer and creative developer crafting bold brands, motion and digital experiences.',
   generator: 'v0.app',
   icons: {
     icon: [
